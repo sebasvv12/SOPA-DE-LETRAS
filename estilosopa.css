@@ -1,0 +1,63 @@
+body {
+    background-image: url(IMG/ImgAbstractos\ 077.jpg) ;
+    margin-top: 10px;
+    margin-block-end: 10px
+   }
+.sopa{
+    margin: auto;
+    
+}
+h1{
+    font-size: 50px;
+}
+.PISTAS
+{
+    border-radius: 15PX;
+    margin: auto;
+    margin-bottom: 5rem;
+    margin-top: 7rem;
+    background-color: rgba(158, 157, 157, 0.534);
+    grid-template-columns:12% 22% 22% 22% 22%;
+    display: grid;
+}
+
+header{
+    text-align: center;
+}
+.letras
+{
+    margin: auto;
+    width: 750px;
+    height: 750px;
+    padding: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.espacio
+{
+margin: 3px;
+width: 45px;
+height: 45px;
+line-height: 45px;
+text-align: center;
+box-shadow: 0 0 5px rgba(0,0,0, 0.3);
+border-radius: 5px;
+float: left;
+}
+
+.espacio:hover{
+    background-color: rgba(47, 170, 252, 0.507);
+}
+
+
+
+.sopaletras
+{
+    border-radius: 15PX;
+    margin: auto;
+    margin-bottom: 5rem;
+    margin-top: 7rem;
+    background-color: rgba(158, 157, 157, 0.534);
+    
+}
